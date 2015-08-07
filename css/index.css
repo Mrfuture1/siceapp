@@ -1,0 +1,148 @@
+/* *index.php文件的CSS文件
+ * 创建者:李春雷
+**/
+
+
+*
+{
+	margin:0px;
+	padding:0px;
+}
+a
+{
+	text-decoration:none;
+}		  
+#logo
+{
+	max-height:100%;
+	max-width:100%;
+	text-align:center;
+}
+#nav
+{
+	background-color:lightseagreen;
+	height:50px;
+	margin-top:10px;
+}
+#nav a
+{
+	line-height:50px;
+	float:left;
+}
+#nav p
+{
+	line-height:50px;
+	float:right;
+	height:100%;
+	margin-right:20px;
+	color:#fff;
+}
+#list1
+{
+	position:absolute;
+	background-color:#fff;
+	width:100%;
+}
+#list1 ul li, .impitem ul li
+{
+	list-style-type:none;
+	height:35px;
+	width:100%;
+}
+#list1 ul li a
+{
+	display:block;
+	width:100%;
+	height:100%;
+	line-height:35px;
+}
+ul li:active
+{
+	background-color:lightseagreen;
+}
+#cal
+{
+	margin-top:10px;
+}
+.itemblock
+{
+	margin-top:10px;
+}
+.impitem ul li a
+{
+	float:left;
+	display:block;
+	width:80%;
+	height:100%;
+	line-height:35px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.impitem ul li span
+{
+	line-height:35px;
+	display:block;
+	text-align:right;
+	padding-right:5px;
+}
+.ui-block-a
+{
+	
+	background-color:#fff;
+	height: 50px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-top:13px;	
+}
+.ui-block-a span
+{
+	color:#1b7e5a;
+	text-height:50px;
+}	
+.ui-block-b
+{
+	
+	background-color:#1b7e5a;
+	height: 50px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-top:13px;
+}
+.ui-block-b span
+{
+	color:#fff;
+	text-height:50px;
+}
+.flogo
+{
+	text-align:center;
+}
+hr
+{
+	height:3px;
+	border:none;
+	border-top:3px solid lightseagreen;
+}
+#link
+{
+	height:40px;
+	text-align:center;
+}
+#link p
+{
+	line-height:40px;
+}
+	
+
+
+
+	
+
+		  
+
+	
+

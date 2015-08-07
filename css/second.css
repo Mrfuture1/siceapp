@@ -1,0 +1,31 @@
+/* CSS Document */
+
+*
+{
+	margin:0px;
+	padding:0px;
+}
+a
+{
+	text-decoration:none;
+}		 
+#secondMenu div 
+{
+	float:left;
+	width:32.9%;
+	height:45px;
+	line-height:45px; 
+	text-align:center; 
+	background-color: lightseagreen;
+	border:#FFF 2px solid;
+}
+#secondMenu div a
+{
+	color:#fff;
+	line-height:45px;
+	width:100%;
+}
+.menu2 span
+{
+	display:block;
+}
